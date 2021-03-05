@@ -19,7 +19,7 @@ __The temperature, weather and AQI updates after a few interval
 5) You can make exe by using pyinstaller
 
 # Screenshot:
-![Screenshot of Weather App](https://github.com/m-s-n/TWA/blob/main/Image.PNG)
-
+![Screenshot of Weather App]()
+<img src="https://github.com/m-s-n/TWA/blob/main/Image.PNG" width="400" heigth="350">
 
 *Mayank Singh(msn2106@gmail.com)*
